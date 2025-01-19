@@ -1,5 +1,4 @@
 # First-file
 This is my first repo
 
-
-I Want to learn GitHub
+I want to learn how to use GitHub 
